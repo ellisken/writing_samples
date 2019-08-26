@@ -1,6 +1,6 @@
 # Objects
 
-An object data structure is a pair of curly brackets around zero or more name/value pairs called members.
+An object data structure is a pair of curly brackets around zero or more name-value pairs called members.
 
 ```js
 let exampleObject = {
@@ -36,7 +36,7 @@ For example, when receiving the `badNames` object from above, some programs repr
 
 
  
-Other programs take the object and remove all duplicates except for the last name/value pair:
+Other programs take the object and remove all duplicates except for the last name-value pair:
 
 ![duplicates removed](https://github.com/ellisken/writing_samples/blob/master/JSFiddle.png)
 
