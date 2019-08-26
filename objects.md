@@ -13,7 +13,7 @@ let exampleObject = {
 ```
 
  
-Each name is a string (like `name` in the example above) with a single colon separating it from the value. Note that all members, aside from the very last, end with a comma.
+Each name is a string (like `name` or `foo` in the example above) with a single colon separating it from the value. Note that all members, aside from the very last, end with a comma.
  
 Names should be unique by convention, so the following example is invalid:
 
