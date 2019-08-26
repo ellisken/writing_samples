@@ -31,11 +31,11 @@ All names in an object must be distinct so that any program interacting with the
 
  
 For example, when receiving the `badNames` object from above, some programs reproduce duplicates:
-![reproduced duplicates](https://github.com/ellisken/writing/blob/master/staysTheSame.jpg)
+![reproduced duplicates](https://github.com/ellisken/writing_samples/blob/master/staysTheSame.jpg)
 
 
  
 Other programs take the object and remove all duplicates except for the last name/value pair:
 
-![duplicates removed](https://github.com/ellisken/writing/blob/master/JSFiddle.png)
+![duplicates removed](https://github.com/ellisken/writing_samples/blob/master/JSFiddle.png)
 
